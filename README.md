@@ -12,3 +12,5 @@ While researching for this project I found a blog detailing some exercises (albe
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length
 4.  Select only the numerical columns
 5.  Calculate the mean of all the numerical variables
+
+Further online research led me to understand the need to import a library into my Python code to better facilitate these calculations, and I decided to try Pandas [https://pandas.pydata.org/pandas-docs/stable/]
