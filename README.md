@@ -7,8 +7,8 @@ Ronald Fisher 1936; one of the first models of statistical classification.  The 
 While researching for this project I found a blog detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for some scripts I need to write - Link [https://joelkuiper.eu/R-workshop] <br>
 
 ###### These exercises include:
-1.  Select only the rows of the Virginica flowers and assign it to virginica <br>
-2   Select only the Sepal Length of the Virginica flowers and assign it
+1.  Select only the rows of the Virginica flowers and assign it to virginica 
+2.  Select only the Sepal Length of the Virginica flowers and assign it
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length
 4.  Select only the numerical columns
 5.  Calculate the mean of all the numerical variables
