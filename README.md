@@ -13,4 +13,4 @@ While researching for this project I found a blog detailing some exercises (albe
 4.  Select only the numerical columns
 5.  Calculate the mean of all the numerical variables
 
-Further online research led me to understand the need to import a library into my Python code to better facilitate these calculations, and I decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+Further online research led me to understand the need to import a library into my Python code to better facilitate these calculations, and I decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/).  My understanding of this package is that it provides the means to efficiently analyse and model data as it incorporates the functionlity of NumPy and MatPlotLib as well as its own particular features. It is also already included in the version of Anaconda I have downloaded to my machine so it was relatively easy to "call it"!
