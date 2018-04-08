@@ -13,3 +13,4 @@ species = df1[["Species"]] #to select column named Species
 virginica = isin(["Iris-virginica"]) #need to fix this - trying to select virginica flowers from species column
 
 print (virginica)
++++++
