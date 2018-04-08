@@ -7,5 +7,7 @@ df1 = pd.read_csv("data/iris.csv")  #label contents of iris.csv file as datafram
 my_columns = ["Sepal Length", "Sepal Width", "Petal Length", "Petal Width", "Species"] #borrowed from Jeff Tratner at https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table
 df1.columns = my_columns
 species = df1[["Species"]] #to select column named Species
+
+# need to get the correct method for this function on the df1 object here
 virginica = isin(["Iris-virginica"]) #need to fix this - trying to select virginica flowers from species column
 print (virginica)
