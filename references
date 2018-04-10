@@ -9,3 +9,5 @@ https://pandas.pydata.org/pandas-docs/stable/dsintro.html - intro to data struct
 http://pythonforengineers.com/introduction-to-pandas/ 
 https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
 https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 - FOR CODE TO SELECT COLUMNS
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
+https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673 
