@@ -31,3 +31,4 @@ As I continued with this project I began to read more and more about [NumPy](htt
 10. Plots a histogram of Sepal Width measurements in blue
 11. Plots a histogram of Petal Length measurements in green
 12. Plots a histogram of Petal Width measurements in yellow
+13. Plots a histogram showing above measurements in assigned colours
