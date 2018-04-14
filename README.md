@@ -4,9 +4,9 @@ Programming &amp; Scripting module project on Fisher's Iris data set.
 ### Summary 
 Fisher's Iris data set was established by British statistician Ronald Fisher in 1936 and it is one of the first standard models of statistical classification.  The data contains 50 samples of three types of Iris flowers (Iris setosa, Iris virginica and Iris versicolor) measured along four variables - the measurements in centimetres of sepal length, sepal width, petal length and petal width. It has become one of the most widely used data test cases for many statistical classification techniques. [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) <br>
 
-While researching for this project I found a blog detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for a script I needed to write - [Link] (https://joelkuiper.eu/R-workshop).  My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
+While researching for this project I found a blog detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for a script I needed to write - [Link](https://joelkuiper.eu/R-workshop).  My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
 
-###### Project1.py includes:
+###### Project1.py includes code to:
 1.  Select only the rows of the Virginica flowers and assign it to virginica 
 2.  Select only the Sepal Length of the Virginica flowers and assign it
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length
