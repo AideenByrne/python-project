@@ -15,7 +15,7 @@ While researching for this project I found a blog detailing some exercises (albe
 
 Further online research led me to understand the need to import a library into my Python code to better facilitate this analysis, and I decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/).  My understanding of this package is that it provides the means to efficiently analyse and model data as it incorporates the functionlity of NumPy and MatPlotLib as well as its own particular features. It is also already included in the version of Anaconda I have downloaded to my machine so it was relatively easy to "call it"! 
 
-As I continued with this project I began to read more and more about NumPy and I decided to try incorporate it too, so I wrote a script that imported it which is saved in this repository as **Project2.py**.  
+As I continued with this project I began to read more and more about [NumPy] (http://www.numpy.org/) and I decided to try incorporate it too, so I wrote a script that imported it which is saved in this repository as **Project2.py**.  
 
 ###### Project2.py includes code that calculates:
 1. The average Sepal Length
