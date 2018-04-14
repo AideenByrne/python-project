@@ -1,8 +1,8 @@
 
 #Aideen Byrne 26th March 2018 
 #Code for investigating Iris Data Set for Programming & Scripting module project 
-#Select only the rows of the Virginica flowers and assign it to virginica 
 
+#Select only the rows of the Virginica flowers and assign it to virginica 
 import pandas as pd #import pandas library 
 df1 = pd.read_csv("data/iris.csv")  #label contents of iris.csv file as dataframe
 my_columns = ["Sepal Length", "Sepal Width", "Petal Length", "Petal Width", "Species"] #borrowed from Jeff Tratner at https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table
@@ -26,5 +26,5 @@ selectnumcol = df1[["Sepal Length", "Sepal Width", "Petal Length", "Petal Width"
 print (selectnumcol)
 
 #Calculate the mean of all the numerical variables
-print ("The mean per column is", selectnumcol.mean())
-print ("The mean of all columns is", selectnumcol.mean().mean())
+print ("The mean per numerical column is", selectnumcol.mean())
+print ("The mean of all numerical columns is", selectnumcol.mean().mean())
