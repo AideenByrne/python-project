@@ -6,6 +6,9 @@ Fisher's Iris data set was established by British statistician Ronald Fisher in 
 
 While researching for this project I found a blog detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for a script to write to investigate the data - [Link](https://joelkuiper.eu/R-workshop). Further online research led me to understand the need to import a library into my Python code to better facilitate this analysis, and I first decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/).  My understanding of this package is that it provides the means to efficiently analyse and model data as it incorporates the functionlity of NumPy and MatPlotLib as well as its own particular features. It is also already included in the version of Anaconda I have downloaded to my machine so it was relatively easy to "call it"! 
 
+I spent a lot of time figuring out how to use Pandas, mainly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which really helped me to understand data structures and indexing/selecting data within them, but also by Googling specific issues I didn't know how to resolve and finding other users' advice on Stack Overflow, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table)
+
+
 My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
 
 ###### Project1.py includes code to:
