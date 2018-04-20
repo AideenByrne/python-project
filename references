@@ -13,6 +13,7 @@ https://pandas.pydata.org/pandas-docs/stable/overview.html
 https://pandas.pydata.org/pandas-docs/stable/dsintro.html - intro to data structures
 https://pandas.pydata.org/pandas-docs/stable/indexing.html - indexing and selecting data
 https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 - for code to select columns 
+https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing
 https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes
 https://pandas.pydata.org/pandas-docs/stable/basics.html - variance
 http://pythonforengineers.com/introduction-to-pandas/ 
