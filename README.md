@@ -63,7 +63,7 @@ I found NumPy a little easier and more intuitive to use, perhaps using and learn
 * [https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing]
 * [https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes]
 * [https://pandas.pydata.org/pandas-docs/stable/basics.html - variance]
-* [http://py]
+* [http://pythonforengineers.com/introduction-to-pandas/]
 * [https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/]
 * [https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html]
 * [https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673]
