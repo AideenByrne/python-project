@@ -8,7 +8,7 @@ While researching for this project I found a [blog](https://joelkuiper.eu/R-work
 
 My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
 
-###### Project1.py includes code to:
+### Project1.py includes code to:
 1.  Select only the rows of the Virginica flowers and assign it to virginica 
 2.  Select only the Sepal Length of the Virginica flowers and assign it
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length
@@ -19,7 +19,7 @@ I spent a lot of time figuring out how to use Pandas, mainly from reading the [P
 
 As I continued with this project I began to read more and more about [NumPy](http://www.numpy.org/) and I decided to try incorporate it too, so I wrote a script that imported it and [MatPlotLib](https://matplotlib.org/) which is saved in this repository as **Project2.py**.  
 
-###### Project2.py includes code that calculates:
+### Project2.py includes code that calculates:
 1. The average Sepal Length
 2. The average Sepal Width
 3. The average Petal Length
@@ -45,11 +45,11 @@ As I continued with this project I began to read more and more about [NumPy](htt
 
 I found NumPy a little easier and more intuitive to use, perhaps using and learning Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
 
-###### REFERENCES
-######Background Reading: 
-[https://en.wikipedia.org/wiki/Iris_flower_data_set]
-[http://www.jeannicholashould.com/tidy-data-in-python.html] 
-[http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html] 
+### References
+###### Background Reading: 
+* [https://en.wikipedia.org/wiki/Iris_flower_data_set]
+* [http://www.jeannicholashould.com/tidy-data-in-python.html] 
+* [http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html] 
 https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/ 
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
 https://joelkuiper.eu/R-workshop 
