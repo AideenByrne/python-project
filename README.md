@@ -4,7 +4,7 @@ Programming &amp; Scripting module project on Fisher's Iris data set.
 ### Summary of background information
 Fisher's Iris data set was established by British statistician Ronald Fisher in 1936 and it is one of the first standard models of statistical classification.  The data contains 50 samples each of three types of Iris flowers (Iris setosa, Iris virginica and Iris versicolor) measured along four variables - the measurements in centimetres of sepal length, sepal width, petal length and petal width. It has become one of the most widely used data test cases for many statistical classification techniques- [Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) <br>
 
-While researching for this project I found a blog detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for a script to write to investigate the data - [Link](https://joelkuiper.eu/R-workshop). Further online research led me to understand the need to import a library into my Python code to better facilitate this analysis, and I first decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/).  My understanding of this package is that it provides the means to efficiently analyse and model data as it incorporates the functionlity of NumPy and MatPlotLib as well as its own particular features. It is also already included in the version of Anaconda I have downloaded to my machine so it was easy to import it. 
+While researching for this project I found a [blog](https://joelkuiper.eu/R-workshop) detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for a script to write to investigate the data. Further online research led me to understand the need to import a library into my Python code to better facilitate this analysis, and I first decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/).  My understanding of this package is that it provides the means to efficiently analyse and model data as it incorporates the functionlity of NumPy and MatPlotLib as well as its own particular features. It is also already included in the version of Anaconda I have downloaded to my machine so it was easy to import it. 
 
 My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
 
@@ -43,13 +43,13 @@ As I continued with this project I began to read more and more about [NumPy](htt
 20. Plots a histogram of Petal Width measurements in yellow
 21. Plots a histogram showing above measurements in assigned colours
 
-I found NumPy a little easier and more intuitive to use, perhaps using and learning Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to reference the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c) however!
+I found NumPy a little easier and more intuitive to use, perhaps using and learning Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
 
 ###### REFERENCES
 ######Background Reading: 
 [https://en.wikipedia.org/wiki/Iris_flower_data_set]
 [http://www.jeannicholashould.com/tidy-data-in-python.html] 
-http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html 
+[http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html] 
 https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/ 
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
 https://joelkuiper.eu/R-workshop 
