@@ -15,7 +15,7 @@ My script demonstrating these exercises is saved in this repository as **Project
 4.  Select only the numerical columns
 5.  Calculate the mean of all the numerical variables
 
-I spent a lot of time figuring out how to use Pandas, mainly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which really helped me to understand data structures and indexing/selecting data within them, and in some cases by Googling specific issues I didn't know how to resolve and finding other users' advice on Stack Overflow, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which I used as a guide for naming columns in a dataframe I created containing the Iris data set and also this [post](https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names) which gave me some insight into data slicing.
+I spent a lot of time figuring out how to use Pandas, mainly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which really helped me to understand data structures and indexing/selecting data within them, and in some cases, by Googling specific issues I didn't know how to resolve and finding other users' advice on Stack Overflow, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which I used as a guide for naming columns in a dataframe I created containing the Iris data set and also this [post](https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names) which gave me some insight into data slicing.
 
 As I continued with this project I began to read more and more about [NumPy](http://www.numpy.org/) and I decided to try incorporate it too, so I wrote a script that imported it and [MatPlotLib](https://matplotlib.org/) which is saved in this repository as **Project2.py**.  
 
@@ -43,7 +43,9 @@ As I continued with this project I began to read more and more about [NumPy](htt
 20. Plots a histogram of Petal Width measurements in yellow
 21. Plots a histogram showing above measurements in assigned colours
 
-I found NumPy a little easier and more intuitive to use, perhaps using and learning Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
+I found NumPy a little easier and more intuitive to use, perhaps using and learning Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and of course, [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
+
+
 
 ### References
 ###### Background Reading: 
