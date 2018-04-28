@@ -46,11 +46,11 @@ As I continued with researching for this project I began to read more about [Num
 ##### and also
 17. Plots a histogram of Sepal Length measurements in red ![Sepal Length](/Figure1.png)
 18. Plots a histogram of Sepal Width measurements in blue ![Sepal Width](/Figure2.png)
-19. Plots a histogram of Petal Length measurements in green
-20. Plots a histogram of Petal Width measurements in yellow <br>
+19. Plots a histogram of Petal Length measurements in green ![Petal Length](/Figure3.png)
+20. Plots a histogram of Petal Width measurements in yellow ![Petal Width](Figure4.png)
 *These four histograms were generated using MatPlotLib. For each, I labelled the Y axis as "Frequency" and the X axis as whichever column I wanted to display, i.e. "Sepal Length", or "Sepal Width" etc.*
-21. Plots a histogram showing above measurements in assigned colours <br>
-*For this I constructed a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
+21. Plots a histogram showing above measurements in assigned colours ![Total](/Figure5.png)
+*For this I included a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
 
 I found NumPy a little easier and more intuitive to use, perhaps using Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google search how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
 
