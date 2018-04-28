@@ -47,7 +47,7 @@ As I continued with researching for this project I began to read more about [Num
 17. Plots a histogram of Sepal Length measurements in red ![Sepal Length](/Figure1.png)
 18. Plots a histogram of Sepal Width measurements in blue ![Sepal Width](/Figure2.png)
 19. Plots a histogram of Petal Length measurements in green ![Petal Length](/Figure3.png)
-20. Plots a histogram of Petal Width measurements in yellow ![Petal Width](Figure4.png)
+20. Plots a histogram of Petal Width measurements in yellow ![Petal Width](Figure4.png) <br>
 *These four histograms were generated using MatPlotLib. For each, I labelled the Y axis as "Frequency" and the X axis as whichever column I wanted to display, i.e. "Sepal Length", or "Sepal Width" etc.*
 21. Plots a histogram showing above measurements in assigned colours ![Total](/Figure5.png)
 *For this I included a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
