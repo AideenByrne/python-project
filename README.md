@@ -43,6 +43,12 @@ As I continued with researching for this project I began to read more about [Num
 15. The standard deviation of total length 
 16. The standard deviation of total width <br>
 *For these 2 steps I used the "allwidth" and "allength" variables described above and called NumPy to calculate and print the standard deviation of each.*
+17. The standard deviationn of Sepal Length
+18. The standard deviation of Sepal Width
+19. The standard deviation of Petal Length
+20. The standard deviation of Petal Width <br>
+*Again, I utilised the variables containing the first four columns of data and wrote commands to execute and print the standard deviation for all of them.* 
+
 ##### and also
 17. Plots a histogram of Sepal Length measurements in red ![Sepal Length](images/Figure1.png)
 18. Plots a histogram of Sepal Width measurements in blue ![Sepal Width](images/Figure2.png)
