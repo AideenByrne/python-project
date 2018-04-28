@@ -9,12 +9,16 @@ While researching for this project I found a [blog](https://joelkuiper.eu/R-work
 My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
 
 ### Project1.py includes code to:
-##1.  Select only the rows of the Virginica flowers and assign it to virginica 
-      This was achieved by creating a dataframe and labelling its columns which in turn allowed selecting only the rows in the column         labelled "Species" that contained "Iris-virginica".  
+1.  Select only the rows of the Virginica flowers and assign it to virginica <br>
+*This was achieved by creating a dataframe and labelling its columns which then allowed for selection of the rows from the column        labelled "Species" containing "Iris-virginica" and assigning them to a variable named "virginica"*.  
 2.  Select only the Sepal Length of the Virginica flowers and assign it
+*I did this by creating a variable named "vsepallength" which was assigned to an argument calling the sepal length of the "virginica" variable above*.
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length
+*This utilised the "vsepallength" variable described in list number 2 and calling Pandas to calculate and print its mean, median, variance and standard deviation.*
 4.  Select only the numerical columns
+*This was achieved by creating another variable, this time named "selectnumcol" and allocating it to the 4 columns that contain numerical data.*
 5.  Calculate the mean of all the numerical variables
+*Actioning this involved calling Pandas to calcuate and print the mean of each column of numerical data individually and also, writing a command to calculate and print the mean of all 4 of them.* 
 
 I spent a lot of time figuring out how to use Pandas, mainly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which really helped me to understand data structures and indexing/selecting data within them, and in some cases, by Googling specific issues I didn't know how to resolve and finding other users' advice on Stack Overflow, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which I used as a guide for naming columns in a dataframe and also this [post](https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names) which gave me some insight into data slicing.
 
