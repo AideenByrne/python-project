@@ -26,7 +26,10 @@ print ("The maximum Petal Width is:", max(fourthcol))
 print ("The minimum Petal Width is:", min(fourthcol))
 print ("The standard deviation of length measurement is:", np.std(alllength))#finds standard deviation of all length measurements
 print ("The standard deviation of all width measurements is:", np.std(allwidth))#finds standard deviation of all width measurements
-
+print ("The standard deviation of Sepal Length is:",np.std(firstcol))
+print ("The standard deviation of Sepal Width is:",np.std(secondcol))
+print ("The standard deviation of Petal Length is:",np.std(thirdcol))
+print ("The standard deviation of Petal Width is:",np.std(fourthcol))
 #to generate histogram representations of data 
 import matplotlib.pyplot as pl
 pl.hist(firstcol, color="red")#calls histogram of first column and displays in red
