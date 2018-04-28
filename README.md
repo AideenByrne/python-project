@@ -43,7 +43,7 @@ As I continued with researching for this project I began to read more about [Num
 15. The standard deviation of total length 
 16. The standard deviation of total width <br>
 *For these 2 steps I used the "allwidth" and "allength" variables described above and called NumPy to calculate and print the standard deviation of each.*
-17. The standard deviationn of Sepal Length
+17. The standard deviation of Sepal Length
 18. The standard deviation of Sepal Width
 19. The standard deviation of Petal Length
 20. The standard deviation of Petal Width <br>
@@ -54,7 +54,7 @@ As I continued with researching for this project I began to read more about [Num
 22. Plots a histogram of Sepal Width measurements in blue ![Sepal Width](images/Figure2.png)
 23. Plots a histogram of Petal Length measurements in green ![Petal Length](images/Figure3.png)
 24. Plots a histogram of Petal Width measurements in yellow ![Petal Width](images/Figure4.png) <br>
-*These four histograms were generated using MatPlotLib. For each, I labelled the Y axis as "Frequency" and the X axis as whichever column I wanted to display, i.e. "Sepal Length", or "Sepal Width" etc.*
+*These four histograms were generated using MatPlotLib. For each, I labelled the Y axis as "Frequency" and the X axis as whichever variable I wanted to display, i.e. "Sepal Length", or "Sepal Width" etc.*
 25. Plots a histogram showing above measurements in assigned colours to demonstrate their distribution ![Total](images/Figure5.png) <br>
 *For this I included a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
 
