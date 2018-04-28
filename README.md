@@ -2,20 +2,21 @@
 Programming &amp; Scripting module project on Fisher's Iris data set.
 
 ### Summary of background information
-Fisher's Iris data set was established by British statistician Ronald Fisher in 1936 and it is one of the first standard models of statistical classification.  The data set contains 50 samples each of three types of Iris flowers (Iris setosa, Iris virginica and Iris versicolor) measured along four variables - the measurements in centimetres of sepal length, sepal width, petal length and petal width. It has become one of the most widely used data test cases for many [statistical classification techniques](https://en.wikipedia.org/wiki/Iris_flower_data_set) as well as [pattern recognition](https://archive.ics.uci.edu/ml/datasets/iris) and [data visualisation](http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/)
+Fisher's Iris data set was established by British statistician Ronald Fisher in 1936 and it is one of the first standard models of statistical classification.  The data set contains 50 samples each of three types of Iris flowers (Iris setosa, Iris virginica and Iris versicolor) measured along four variables - the measurements in centimetres of sepal length, sepal width, petal length and petal width. It has become one of the most widely used data test cases for many [statistical classification techniques](https://en.wikipedia.org/wiki/Iris_flower_data_set) as well as [pattern recognition](https://archive.ics.uci.edu/ml/datasets/iris) and [data visualisation](http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set.
 
 While researching for this project I found a [blog](https://joelkuiper.eu/R-workshop) detailing some exercises (albeit in R) for this data set that I've borrowed as a guideline for a script to write to investigate the data. Further online research led me to understand the need to import a library into my Python code to better facilitate this analysis, and I first decided to try [Pandas](https://pandas.pydata.org/pandas-docs/stable/).  My understanding of this package is that it provides the means to efficiently analyse and model data as it incorporates the functionlity of NumPy and MatPlotLib as well as its own particular features. It is also already included in the version of Anaconda I have downloaded to my machine so it was quite simple to import it. 
 
 My script demonstrating these exercises is saved in this repository as **Project1.py** <br>
 
 ### Project1.py includes code to:
-1.  Select only the rows of the Virginica flowers and assign it to virginica 
+##1.  Select only the rows of the Virginica flowers and assign it to virginica 
+      This was achieved by creating a dataframe and labelling its columns which in turn allowed selecting only the rows in the column         labelled "Species" that contained "Iris-virginica".  
 2.  Select only the Sepal Length of the Virginica flowers and assign it
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length
 4.  Select only the numerical columns
 5.  Calculate the mean of all the numerical variables
 
-I spent a lot of time figuring out how to use Pandas, mainly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which really helped me to understand data structures and indexing/selecting data within them, and in some cases, by Googling specific issues I didn't know how to resolve and finding other users' advice on Stack Overflow, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which I used as a guide for naming columns in a dataframe I created containing the Iris data set and also this [post](https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names) which gave me some insight into data slicing.
+I spent a lot of time figuring out how to use Pandas, mainly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which really helped me to understand data structures and indexing/selecting data within them, and in some cases, by Googling specific issues I didn't know how to resolve and finding other users' advice on Stack Overflow, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which I used as a guide for naming columns in a dataframe and also this [post](https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names) which gave me some insight into data slicing.
 
 As I continued with this project I began to read more and more about [NumPy](http://www.numpy.org/) and I decided to try incorporate it too, so I wrote a script that imported it and [MatPlotLib](https://matplotlib.org/) which is saved in this repository as **Project2.py**.  
 
@@ -45,7 +46,7 @@ As I continued with this project I began to read more and more about [NumPy](htt
 
 I found NumPy a little easier and more intuitive to use, perhaps using and learning Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and of course, [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
 
-
+The Iris data set demonstrates 
 
 ### References
 ###### Background Reading: 
@@ -55,6 +56,8 @@ I found NumPy a little easier and more intuitive to use, perhaps using and learn
 * https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/ 
 * https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
 * https://joelkuiper.eu/R-workshop 
+* https://archive.ics.uci.edu/ml/datasets/iris
+* http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
 
 ###### Project1.py
 * [https://pythonhow.com/data-analysis-with-python-pandas/ - how to import pandas]
