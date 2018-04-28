@@ -38,18 +38,18 @@ As I continued with researching for this project I began to read more about [Num
 11. The maximum Petal Length
 12. The minimum Petal Length
 13. The maximum Petal Width
-14. The minimum Petal Length
+14. The minimum Petal Length <br>
 *This involved selecting the first, second, third and fourth columns of the file individually and assigning them to their own variables ("firstcol", "secondcol", "thirdcol" and "fourthcol" respectively) as well as two further variables, one that contains all the measurements capturing width ("all width") and the same for length ("alllength").*
 15. The standard deviation of total length 
-16. The standard deviation of total width
+16. The standard deviation of total width <br>
 *For these 2 steps I used the "allwidth" and "allength" variables described above and called NumPy to calculate and print the standard deviation of each.*
 ##### and also
-17. Plots a histogram of Sepal Length measurements in red ![Sepal Length]()
+17. Plots a histogram of Sepal Length measurements in red ![Sepal Length](/images/Figure1.png)
 18. Plots a histogram of Sepal Width measurements in blue
 19. Plots a histogram of Petal Length measurements in green
-20. Plots a histogram of Petal Width measurements in yellow
+20. Plots a histogram of Petal Width measurements in yellow <br>
 *These four histograms were generated using MatPlotLib. For each, I labelled the Y axis as "Frequency" and the X axis as whichever column I wanted to display, i.e. "Sepal Length", or "Sepal Width" etc.*
-21. Plots a histogram showing above measurements in assigned colours
+21. Plots a histogram showing above measurements in assigned colours <br>
 *For this I constructed a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
 
 I found NumPy a little easier and more intuitive to use, perhaps using Pandas helped with that.  When it came to writing code for maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try "max" and "min". I did need to Google search how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
