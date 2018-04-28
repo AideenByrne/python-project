@@ -58,3 +58,5 @@ pl.hist(z, label="Petal Length", color="green")
 pl.hist(w, label="Petal Width", color="yellow")
 pl.legend(loc='upper right')
 pl.show()
+
+
