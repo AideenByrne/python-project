@@ -26,7 +26,7 @@ As I continued with researching for this project I began to read more about [Num
 
 ### Project2.py includes code that calculates:
 1. The average Sepal Length, Sepal Width, Petal Length, Petal Width, total length and total width.
-2. The maximum and minimum Sepal Length, Sepal Witdh, Petal Length and Petal Width <br>
+2. The maximum and minimum Sepal Length, Sepal Width, Petal Length and Petal Width <br>
 *This involved selecting the first, second, third and fourth columns of the file individually and assigning them to their own variables ("firstcol", "secondcol", "thirdcol" and "fourthcol" respectively) as well as two further variables, one that contains all the measurements capturing width ("all width") and the same for length ("alllength").*
 3. The standard deviation of all of these variables <br>
 *For this I used all of the variables described above and called NumPy to calculate and print the standard deviation of each.*
