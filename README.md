@@ -58,21 +58,21 @@ The script in Project2.py yields more tangible results than my initial "practice
 * http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
 
 ###### Project1.py
-* [https://pythonhow.com/data-analysis-with-python-pandas/ - how to import pandas]
-* [https://pandas.pydata.org/pandas-docs/stable/overview.html]
-* [https://pandas.pydata.org/pandas-docs/stable/dsintro.html - intro to data structures]
-* [https://pandas.pydata.org/pandas-docs/stable/indexing.html - indexing and selecting data]
-* [https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 - for code to select columns]
-* [https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing]
-* [https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes]
-* [https://pandas.pydata.org/pandas-docs/stable/basics.html - variance]
-* [http://pythonforengineers.com/introduction-to-pandas/]
-* [https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/]
-* [https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html]
-* [https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673]
+* https://pythonhow.com/data-analysis-with-python-pandas/ - how to import pandas
+* https://pandas.pydata.org/pandas-docs/stable/overview.html
+* https://pandas.pydata.org/pandas-docs/stable/dsintro.html - intro to data structures
+* https://pandas.pydata.org/pandas-docs/stable/indexing.html - indexing and selecting data
+* https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 - for code to select columns
+* https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing
+* https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes
+* https://pandas.pydata.org/pandas-docs/stable/basics.html - variance
+* http://pythonforengineers.com/introduction-to-pandas/
+* https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
+* https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
+* https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673
 
 ###### Project2.py
-* [https://docs.scipy.org/doc/numpy/user/quickstart.html - NumPy tutorial]
-* [https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html - standard deviation]
-* [https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c - labelling histogram axes]
+* https://docs.scipy.org/doc/numpy/user/quickstart.html - NumPy tutorial
+* https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html - standard deviation
+* https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c - labelling histogram axes
 
