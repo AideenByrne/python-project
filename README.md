@@ -10,7 +10,7 @@ My script demonstrating these exercises is saved in this repository as **Project
 
 ### Project1.py includes code to:
 1.  Select only the rows of the Virginica flowers and assign it to virginica <br>
-*This was achieved by creating a dataframe and labelling its columns which then allowed for selection of the rows from the column        labelled "Species" containing "Iris-virginica" and assigning them to a variable named "virginica"*.  
+*This was achieved by creating a dataframe and labelling its columns (which I learned from this [stackoverflow.com post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which then allowed for selection of the rows from the column labelled "Species" containing "Iris-virginica" and assigning them to a variable named "virginica"*.  
 2.  Select only the Sepal Length of the Virginica flowers and assign it <br>
 *I did this by creating a variable named "vsepallength" which was assigned to an argument calling the sepal length of the "virginica" variable above*.
 3.  Calculate the mean, median, variance and standard deviation of the Virginica Sepal Length <br>
@@ -62,6 +62,7 @@ The script in Project2.py yields more tangible results than my initial "practice
 * https://pandas.pydata.org/pandas-docs/stable/overview.html
 * https://pandas.pydata.org/pandas-docs/stable/dsintro.html - intro to data structures
 * https://pandas.pydata.org/pandas-docs/stable/indexing.html - indexing and selecting data
+* https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table - naming columns in a dataframe
 * https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 - for code to select columns
 * https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing
 * https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes
