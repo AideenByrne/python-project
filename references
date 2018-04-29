@@ -6,12 +6,13 @@ https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/
 https://joelkuiper.eu/R-workshop 
 https://archive.ics.uci.edu/ml/datasets/iris
 http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
-
+ 
 Project1.py
 https://pythonhow.com/data-analysis-with-python-pandas/ - how to import pandas 
 https://pandas.pydata.org/pandas-docs/stable/overview.html
 https://pandas.pydata.org/pandas-docs/stable/dsintro.html - intro to data structures
 https://pandas.pydata.org/pandas-docs/stable/indexing.html - indexing and selecting data
+https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table - labelling dataframes
 https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9 - for code to select columns 
 https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing
 https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes
