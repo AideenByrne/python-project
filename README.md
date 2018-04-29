@@ -18,7 +18,7 @@ My script demonstrating these exercises is saved in this repository as **Project
 4.  Select only the numerical columns <br>
 *This was achieved by creating another variable, this time named "selectnumcol" and allocating it to the 4 columns that contain numerical data.*
 5.  Calculate the mean of all the numerical variables <br>
-*Demonstrating this involved calling Pandas to calcuate and print the mean of each column of numerical data individually and also, writing a command to calculate and print the mean of all 4.* 
+*Demonstrating this involved calling Pandas to calcuate and print the mean of each column of numerical data individually and also, writing a command to calculate and print the mean of all 4 combined.* 
 
 I learned how to execute the above steps mostly from reading the [Pandas Tutorial](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) which helped me to understand data structures and indexing/selecting data within them, and in some cases, by Googling specific issues I didn't know how to resolve and finding other users' advice on stackoverflow.com, for example this [post](https://stackoverflow.com/questions/17018638/assigning-column-names-from-a-list-to-a-table) which I used as a guide for naming columns in a dataframe and also this [post](https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names) which gave me some insight into data slicing. At this point I felt I understood how I could try to extract meaningful information from the data set with Python code. 
 
