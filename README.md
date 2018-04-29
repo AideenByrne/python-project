@@ -40,7 +40,7 @@ As I continued with researching for this project I began to read more about [Num
 8. Plots a histogram showing above measurements in assigned colours to demonstrate their distribution ![Total](images/Figure5.png) <br>
 *For this I included a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
 
-These histograms helped to visualise the data set for me and allow me to see that the distribution of Petal Length and Petal Width varies greatly from the measurements recorded for Sepal Length and Sepal Width and that there is a correlation between each of these pairs.
+These histograms helped to visualise the data set for me and allow me to see that the distribution of Petal Length and Petal Width varies greatly from the measurements recorded for Sepal Length and Sepal Width.
 
 I found NumPy a little easier and more intuitive to use, perhaps using Pandas helped.  When it came to writing code to calculate the maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try out "max" and "min". I did need to Google search how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
 
