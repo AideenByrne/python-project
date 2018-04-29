@@ -25,37 +25,19 @@ I learned how to execute the above steps mostly from reading the [Pandas Tutoria
 As I continued with researching for this project I began to read more about [NumPy](http://www.numpy.org/) and I decided to try incorporate it too, by writing a script that imported it and [MatPlotLib](https://matplotlib.org/) which is saved in this repository as **Project2.py**.  
 
 ### Project2.py includes code that calculates:
-1. The average Sepal Length
-2. The average Sepal Width
-3. The average Petal Length
-4. The average Petal Width
-5. The average total length
-6. The average total width
-7. The maximum Sepal Length
-8. The minimum Sepal Length
-9. The maximum Sepal Width
-10. The minimum Sepal Width
-11. The maximum Petal Length
-12. The minimum Petal Length
-13. The maximum Petal Width
-14. The minimum Petal Length <br>
+1. The average Sepal Length, Sepal Width, Petal Length, Petal Width, total length and total width.
+7. The maximum and minimum Sepal Length, Sepal Witdh, Petal Length and Petal Width <br>
 *This involved selecting the first, second, third and fourth columns of the file individually and assigning them to their own variables ("firstcol", "secondcol", "thirdcol" and "fourthcol" respectively) as well as two further variables, one that contains all the measurements capturing width ("all width") and the same for length ("alllength").*
-15. The standard deviation of total length 
-16. The standard deviation of total width <br>
-*For these 2 steps I used the "allwidth" and "allength" variables described above and called NumPy to calculate and print the standard deviation of each.*
-17. The standard deviation of Sepal Length
-18. The standard deviation of Sepal Width
-19. The standard deviation of Petal Length
-20. The standard deviation of Petal Width <br>
-*Again, I utilised the variables containing the first four columns of data and wrote commands to execute and print the standard deviation for all of them.* 
+8. The standard deviation of all of these variables <br>
+*For this I used ;ll of the variables described above and called NumPy to calculate and print the standard deviation of each.*
 
 ##### and also
-21. Plots a histogram of Sepal Length measurements in red ![Sepal Length](images/Figure1.png)
-22. Plots a histogram of Sepal Width measurements in blue ![Sepal Width](images/Figure2.png)
-23. Plots a histogram of Petal Length measurements in green ![Petal Length](images/Figure3.png)
-24. Plots a histogram of Petal Width measurements in yellow ![Petal Width](images/Figure4.png) <br>
+9. Plots a histogram of Sepal Length measurements in red ![Sepal Length](images/Figure1.png)
+10. Plots a histogram of Sepal Width measurements in blue ![Sepal Width](images/Figure2.png)
+11. Plots a histogram of Petal Length measurements in green ![Petal Length](images/Figure3.png)
+12. Plots a histogram of Petal Width measurements in yellow ![Petal Width](images/Figure4.png) <br>
 *These four histograms were generated using MatPlotLib. For each, I labelled the Y axis as "Frequency" and the X axis as whichever variable I wanted to display, i.e. "Sepal Length", or "Sepal Width" etc.*
-25. Plots a histogram showing above measurements in assigned colours to demonstrate their distribution ![Total](images/Figure5.png) <br>
+13. Plots a histogram showing above measurements in assigned colours to demonstrate their distribution ![Total](images/Figure5.png) <br>
 *For this I included a command to generate a histogram to combine all of the recorded measurements with the colours I had selected as above.* 
 
 I found NumPy a little easier and more intuitive to use, perhaps using Pandas helped.  When it came to writing code to calculate the maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try out "max" and "min". I did need to Google search how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
