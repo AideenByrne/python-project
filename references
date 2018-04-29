@@ -1,9 +1,6 @@
 Background Reading: 
 https://en.wikipedia.org/wiki/Iris_flower_data_set 
 http://www.jeannicholashould.com/tidy-data-in-python.html 
-http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html 
-https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/ 
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ 
 https://joelkuiper.eu/R-workshop 
 
 Project1.py
@@ -15,10 +12,8 @@ https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-
 https://stackoverflow.com/questions/45225841/pandas-data-slicing-by-column-names - data slicing
 https://pythonhow.com/pandas-data-analysis-functions/ - mean for dataframes
 https://pandas.pydata.org/pandas-docs/stable/basics.html - variance
-http://pythonforengineers.com/introduction-to-pandas/ 
 https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
 https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html
-https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673 
 
 Project2.py
 https://docs.scipy.org/doc/numpy/user/quickstart.html - NumPy tutorial
