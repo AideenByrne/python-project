@@ -44,7 +44,7 @@ These histograms helped to visualise the data set for me and allow me to see tha
 
 I found NumPy a little easier and more intuitive to use, perhaps using Pandas helped.  When it came to writing code to calculate the maximum and minimum I found I didn't need to first check the [NumPy tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) but just try out "max" and "min". I did need to Google search how to find the [standard deviation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html) and [how to label histograms](https://medium.com/python-pandemonium/data-visualization-in-python-histogram-in-matplotlib-dce38f49f89c). 
 
-The script in Project2.py yields more tangible results than my initial "practice" workings in the script Project1.py.  I debated whether I should include Project1.py in the final body of work as it doesn't lend itself to much practical use, but I do feel that it enabled me to start grasping the basic concepts of extracting and selecting information from a set of data. 
+The script in Project2.py yields more tangible results than my initial "practice" workings in the script Project1.py.  I debated whether I should include Project1.py in the final body of work as it doesn't lend itself to much practical use, but I do feel that it enabled me to start grasping the basic concepts of extracting and selecting information from a set of data, and I look forward to deepening my knowledge on this. 
 
 
 ### References
