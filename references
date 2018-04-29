@@ -1,7 +1,11 @@
 Background Reading: 
-https://en.wikipedia.org/wiki/Iris_flower_data_set 
+https://en.wikipedia.org/wiki/Iris_flower_data_set
 http://www.jeannicholashould.com/tidy-data-in-python.html 
+http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+https://shapeofdata.wordpress.com/2013/10/01/case-study-1-iris/ 
 https://joelkuiper.eu/R-workshop 
+https://archive.ics.uci.edu/ml/datasets/iris
+http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
 
 Project1.py
 https://pythonhow.com/data-analysis-with-python-pandas/ - how to import pandas 
